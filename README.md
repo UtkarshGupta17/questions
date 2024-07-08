@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/UtkarshGupta17/questions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/UtkarshGupta17/questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/UtkarshGupta17/questions/tree/master/2645-pass-the-pillow) |
+| [3336-water-bottles-ii](https://github.com/UtkarshGupta17/questions/tree/master/3336-water-bottles-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/UtkarshGupta17/questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/UtkarshGupta17/questions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/UtkarshGupta17/questions/tree/master/2645-pass-the-pillow) |
+| [3336-water-bottles-ii](https://github.com/UtkarshGupta17/questions/tree/master/3336-water-bottles-ii) |
 ## Queue
 |  |
 | ------- |
