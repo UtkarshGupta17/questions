@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/UtkarshGupta17/questions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/UtkarshGupta17/questions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/UtkarshGupta17/questions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UtkarshGupta17/questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/UtkarshGupta17/questions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/UtkarshGupta17/questions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/UtkarshGupta17/questions/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/UtkarshGupta17/questions/tree/master/0967-minimum-falling-path-sum) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/UtkarshGupta17/questions/tree/master/0037-sudoku-solver) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UtkarshGupta17/questions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/UtkarshGupta17/questions/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/UtkarshGupta17/questions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
