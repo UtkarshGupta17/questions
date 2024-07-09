@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/UtkarshGupta17/questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0322-coin-change](https://github.com/UtkarshGupta17/questions/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/UtkarshGupta17/questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/UtkarshGupta17/questions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/UtkarshGupta17/questions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -126,13 +128,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/UtkarshGupta17/questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/UtkarshGupta17/questions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/UtkarshGupta17/questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/UtkarshGupta17/questions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/UtkarshGupta17/questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/UtkarshGupta17/questions/tree/master/0129-sum-root-to-leaf-numbers) |
 <!---LeetCode Topics End-->
