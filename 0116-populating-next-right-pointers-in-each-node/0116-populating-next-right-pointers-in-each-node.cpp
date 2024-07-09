@@ -28,14 +28,14 @@ public:
         while(!q.empty()){
             int size=q.size();
             vector<int>arr2;
+            Node* prev=nullptr;
             for(int i=0;i<size;i++){
                 Node* node=q.front();
                 q.pop();
-                if (i < size - 1) {
-                    node->next = q.front();
-                } else {
-                    node->next = NULL;
+                if (prev) {
+                    prev->next = node;
                 }
+                prev = node;
                 if(node->left){
                     q.push(node->left);
                 }
