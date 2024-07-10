@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/UtkarshGupta17/questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/UtkarshGupta17/questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/UtkarshGupta17/questions/tree/master/2379-maximum-total-importance-of-roads) |
+| [2725-mice-and-cheese](https://github.com/UtkarshGupta17/questions/tree/master/2725-mice-and-cheese) |
 ## Graph
 |  |
 | ------- |
@@ -18,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/UtkarshGupta17/questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/UtkarshGupta17/questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/UtkarshGupta17/questions/tree/master/2379-maximum-total-importance-of-roads) |
+| [2725-mice-and-cheese](https://github.com/UtkarshGupta17/questions/tree/master/2725-mice-and-cheese) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2379-maximum-total-importance-of-roads](https://github.com/UtkarshGupta17/questions/tree/master/2379-maximum-total-importance-of-roads) |
+| [2725-mice-and-cheese](https://github.com/UtkarshGupta17/questions/tree/master/2725-mice-and-cheese) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/UtkarshGupta17/questions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/UtkarshGupta17/questions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/UtkarshGupta17/questions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2725-mice-and-cheese](https://github.com/UtkarshGupta17/questions/tree/master/2725-mice-and-cheese) |
 ## Matrix
 |  |
 | ------- |
