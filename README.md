@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/UtkarshGupta17/questions/tree/master/0967-minimum-falling-path-sum) |
 | [1293-three-consecutive-odds](https://github.com/UtkarshGupta17/questions/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/UtkarshGupta17/questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/UtkarshGupta17/questions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/UtkarshGupta17/questions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/UtkarshGupta17/questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Matrix
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/UtkarshGupta17/questions/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/UtkarshGupta17/questions/tree/master/0115-distinct-subsequences) |
 | [1170-shortest-common-supersequence](https://github.com/UtkarshGupta17/questions/tree/master/1170-shortest-common-supersequence) |
+| [1720-crawler-log-folder](https://github.com/UtkarshGupta17/questions/tree/master/1720-crawler-log-folder) |
 ## Recursion
 |  |
 | ------- |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/UtkarshGupta17/questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/UtkarshGupta17/questions/tree/master/0129-sum-root-to-leaf-numbers) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/UtkarshGupta17/questions/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
