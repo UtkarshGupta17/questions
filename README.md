@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/UtkarshGupta17/questions/tree/master/0115-distinct-subsequences) |
 | [0874-backspace-string-compare](https://github.com/UtkarshGupta17/questions/tree/master/0874-backspace-string-compare) |
 | [1170-shortest-common-supersequence](https://github.com/UtkarshGupta17/questions/tree/master/1170-shortest-common-supersequence) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/UtkarshGupta17/questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/UtkarshGupta17/questions/tree/master/1720-crawler-log-folder) |
 ## Recursion
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/UtkarshGupta17/questions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/UtkarshGupta17/questions/tree/master/0874-backspace-string-compare) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/UtkarshGupta17/questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/UtkarshGupta17/questions/tree/master/1720-crawler-log-folder) |
 ## Bit Manipulation
 |  |
