@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/UtkarshGupta17/questions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/UtkarshGupta17/questions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/UtkarshGupta17/questions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/UtkarshGupta17/questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2725-mice-and-cheese](https://github.com/UtkarshGupta17/questions/tree/master/2725-mice-and-cheese) |
 | [2846-robot-collisions](https://github.com/UtkarshGupta17/questions/tree/master/2846-robot-collisions) |
 ## Matrix
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/UtkarshGupta17/questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/UtkarshGupta17/questions/tree/master/0726-number-of-atoms) |
 | [0994-prison-cells-after-n-days](https://github.com/UtkarshGupta17/questions/tree/master/0994-prison-cells-after-n-days) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/UtkarshGupta17/questions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/UtkarshGupta17/questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/UtkarshGupta17/questions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/UtkarshGupta17/questions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/UtkarshGupta17/questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/UtkarshGupta17/questions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/UtkarshGupta17/questions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Stack
 |  |
 | ------- |
