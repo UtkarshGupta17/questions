@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-prison-cells-after-n-days](https://github.com/UtkarshGupta17/questions/tree/master/0994-prison-cells-after-n-days) |
 | [1207-delete-nodes-and-return-forest](https://github.com/UtkarshGupta17/questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/UtkarshGupta17/questions/tree/master/1293-three-consecutive-odds) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/UtkarshGupta17/questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/UtkarshGupta17/questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/UtkarshGupta17/questions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/UtkarshGupta17/questions/tree/master/1803-average-waiting-time) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/UtkarshGupta17/questions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/UtkarshGupta17/questions/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/UtkarshGupta17/questions/tree/master/0967-minimum-falling-path-sum) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/UtkarshGupta17/questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
