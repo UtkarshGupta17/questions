@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/UtkarshGupta17/questions/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/UtkarshGupta17/questions/tree/master/0115-distinct-subsequences) |
+| [0459-repeated-substring-pattern](https://github.com/UtkarshGupta17/questions/tree/master/0459-repeated-substring-pattern) |
 | [0726-number-of-atoms](https://github.com/UtkarshGupta17/questions/tree/master/0726-number-of-atoms) |
 | [0874-backspace-string-compare](https://github.com/UtkarshGupta17/questions/tree/master/0874-backspace-string-compare) |
 | [1170-shortest-common-supersequence](https://github.com/UtkarshGupta17/questions/tree/master/1170-shortest-common-supersequence) |
@@ -198,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-prison-cells-after-n-days](https://github.com/UtkarshGupta17/questions/tree/master/0994-prison-cells-after-n-days) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/UtkarshGupta17/questions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
