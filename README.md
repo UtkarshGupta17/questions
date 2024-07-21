@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/UtkarshGupta17/questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0518-coin-change-ii](https://github.com/UtkarshGupta17/questions/tree/master/0518-coin-change-ii) |
 | [0682-baseball-game](https://github.com/UtkarshGupta17/questions/tree/master/0682-baseball-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/UtkarshGupta17/questions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0967-minimum-falling-path-sum](https://github.com/UtkarshGupta17/questions/tree/master/0967-minimum-falling-path-sum) |
 | [0994-prison-cells-after-n-days](https://github.com/UtkarshGupta17/questions/tree/master/0994-prison-cells-after-n-days) |
 | [1207-delete-nodes-and-return-forest](https://github.com/UtkarshGupta17/questions/tree/master/1207-delete-nodes-and-return-forest) |
