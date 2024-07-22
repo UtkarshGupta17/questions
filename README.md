@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/UtkarshGupta17/questions/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/UtkarshGupta17/questions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/UtkarshGupta17/questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/UtkarshGupta17/questions/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/UtkarshGupta17/questions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UtkarshGupta17/questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/UtkarshGupta17/questions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/UtkarshGupta17/questions/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/UtkarshGupta17/questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/UtkarshGupta17/questions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UtkarshGupta17/questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/UtkarshGupta17/questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/UtkarshGupta17/questions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/UtkarshGupta17/questions/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/UtkarshGupta17/questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/UtkarshGupta17/questions/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/UtkarshGupta17/questions/tree/master/0967-minimum-falling-path-sum) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/UtkarshGupta17/questions/tree/master/1496-lucky-numbers-in-a-matrix) |
