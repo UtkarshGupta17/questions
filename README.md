@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/UtkarshGupta17/questions/tree/master/0518-coin-change-ii) |
 | [0682-baseball-game](https://github.com/UtkarshGupta17/questions/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/UtkarshGupta17/questions/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0965-unique-email-addresses](https://github.com/UtkarshGupta17/questions/tree/master/0965-unique-email-addresses) |
 | [0967-minimum-falling-path-sum](https://github.com/UtkarshGupta17/questions/tree/master/0967-minimum-falling-path-sum) |
 | [0994-prison-cells-after-n-days](https://github.com/UtkarshGupta17/questions/tree/master/0994-prison-cells-after-n-days) |
 | [1207-delete-nodes-and-return-forest](https://github.com/UtkarshGupta17/questions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/UtkarshGupta17/questions/tree/master/0037-sudoku-solver) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UtkarshGupta17/questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/UtkarshGupta17/questions/tree/master/0726-number-of-atoms) |
+| [0965-unique-email-addresses](https://github.com/UtkarshGupta17/questions/tree/master/0965-unique-email-addresses) |
 | [0994-prison-cells-after-n-days](https://github.com/UtkarshGupta17/questions/tree/master/0994-prison-cells-after-n-days) |
 | [1207-delete-nodes-and-return-forest](https://github.com/UtkarshGupta17/questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/UtkarshGupta17/questions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/UtkarshGupta17/questions/tree/master/0459-repeated-substring-pattern) |
 | [0726-number-of-atoms](https://github.com/UtkarshGupta17/questions/tree/master/0726-number-of-atoms) |
 | [0874-backspace-string-compare](https://github.com/UtkarshGupta17/questions/tree/master/0874-backspace-string-compare) |
+| [0965-unique-email-addresses](https://github.com/UtkarshGupta17/questions/tree/master/0965-unique-email-addresses) |
 | [1170-shortest-common-supersequence](https://github.com/UtkarshGupta17/questions/tree/master/1170-shortest-common-supersequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/UtkarshGupta17/questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/UtkarshGupta17/questions/tree/master/1720-crawler-log-folder) |
