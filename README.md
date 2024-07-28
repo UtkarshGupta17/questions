@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/UtkarshGupta17/questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/UtkarshGupta17/questions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/UtkarshGupta17/questions/tree/master/0948-sort-an-array) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/UtkarshGupta17/questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1333-sort-the-jumbled-numbers](https://github.com/UtkarshGupta17/questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/UtkarshGupta17/questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/UtkarshGupta17/questions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/UtkarshGupta17/questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0322-coin-change](https://github.com/UtkarshGupta17/questions/tree/master/0322-coin-change) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/UtkarshGupta17/questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/UtkarshGupta17/questions/tree/master/0726-number-of-atoms) |
 | [0965-unique-email-addresses](https://github.com/UtkarshGupta17/questions/tree/master/0965-unique-email-addresses) |
 | [0994-prison-cells-after-n-days](https://github.com/UtkarshGupta17/questions/tree/master/0994-prison-cells-after-n-days) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/UtkarshGupta17/questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/UtkarshGupta17/questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/UtkarshGupta17/questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/UtkarshGupta17/questions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/UtkarshGupta17/questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/UtkarshGupta17/questions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/UtkarshGupta17/questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/UtkarshGupta17/questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/UtkarshGupta17/questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/UtkarshGupta17/questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/UtkarshGupta17/questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/UtkarshGupta17/questions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/UtkarshGupta17/questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/UtkarshGupta17/questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/UtkarshGupta17/questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/UtkarshGupta17/questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -206,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/UtkarshGupta17/questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/UtkarshGupta17/questions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/UtkarshGupta17/questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/UtkarshGupta17/questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/UtkarshGupta17/questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/UtkarshGupta17/questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
