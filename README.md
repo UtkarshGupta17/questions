@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/UtkarshGupta17/questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/UtkarshGupta17/questions/tree/master/2502-sort-the-people) |
 | [2725-mice-and-cheese](https://github.com/UtkarshGupta17/questions/tree/master/2725-mice-and-cheese) |
+| [2727-number-of-senior-citizens](https://github.com/UtkarshGupta17/questions/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/UtkarshGupta17/questions/tree/master/2846-robot-collisions) |
 ## Matrix
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/UtkarshGupta17/questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/UtkarshGupta17/questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/UtkarshGupta17/questions/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/UtkarshGupta17/questions/tree/master/2727-number-of-senior-citizens) |
 ## Recursion
 |  |
 | ------- |
