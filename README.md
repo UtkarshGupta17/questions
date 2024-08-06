@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/UtkarshGupta17/questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2379-maximum-total-importance-of-roads](https://github.com/UtkarshGupta17/questions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2725-mice-and-cheese](https://github.com/UtkarshGupta17/questions/tree/master/2725-mice-and-cheese) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UtkarshGupta17/questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/UtkarshGupta17/questions/tree/master/2502-sort-the-people) |
 | [2725-mice-and-cheese](https://github.com/UtkarshGupta17/questions/tree/master/2725-mice-and-cheese) |
 | [2846-robot-collisions](https://github.com/UtkarshGupta17/questions/tree/master/2846-robot-collisions) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UtkarshGupta17/questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/UtkarshGupta17/questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/UtkarshGupta17/questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/UtkarshGupta17/questions/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UtkarshGupta17/questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/UtkarshGupta17/questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/UtkarshGupta17/questions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/UtkarshGupta17/questions/tree/master/2727-number-of-senior-citizens) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UtkarshGupta17/questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0948-sort-an-array](https://github.com/UtkarshGupta17/questions/tree/master/0948-sort-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/UtkarshGupta17/questions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UtkarshGupta17/questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
 | ------- |
