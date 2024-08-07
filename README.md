@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/UtkarshGupta17/questions/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/UtkarshGupta17/questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1333-sort-the-jumbled-numbers](https://github.com/UtkarshGupta17/questions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/UtkarshGupta17/questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/UtkarshGupta17/questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/UtkarshGupta17/questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/UtkarshGupta17/questions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/UtkarshGupta17/questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/UtkarshGupta17/questions/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/UtkarshGupta17/questions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/UtkarshGupta17/questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/UtkarshGupta17/questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/UtkarshGupta17/questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/UtkarshGupta17/questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-prison-cells-after-n-days](https://github.com/UtkarshGupta17/questions/tree/master/0994-prison-cells-after-n-days) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/UtkarshGupta17/questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/UtkarshGupta17/questions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/UtkarshGupta17/questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/UtkarshGupta17/questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/UtkarshGupta17/questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/UtkarshGupta17/questions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/UtkarshGupta17/questions/tree/master/0965-unique-email-addresses) |
 | [1170-shortest-common-supersequence](https://github.com/UtkarshGupta17/questions/tree/master/1170-shortest-common-supersequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/UtkarshGupta17/questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/UtkarshGupta17/questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1720-crawler-log-folder](https://github.com/UtkarshGupta17/questions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/UtkarshGupta17/questions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/UtkarshGupta17/questions/tree/master/1818-maximum-score-from-removing-substrings) |
