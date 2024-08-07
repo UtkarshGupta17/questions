@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/UtkarshGupta17/questions/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UtkarshGupta17/questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/UtkarshGupta17/questions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/UtkarshGupta17/questions/tree/master/0948-sort-an-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/UtkarshGupta17/questions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/UtkarshGupta17/questions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/UtkarshGupta17/questions/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/UtkarshGupta17/questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/UtkarshGupta17/questions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UtkarshGupta17/questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/UtkarshGupta17/questions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/UtkarshGupta17/questions/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UtkarshGupta17/questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/UtkarshGupta17/questions/tree/master/0726-number-of-atoms) |
 | [0965-unique-email-addresses](https://github.com/UtkarshGupta17/questions/tree/master/0965-unique-email-addresses) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/UtkarshGupta17/questions/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/UtkarshGupta17/questions/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/UtkarshGupta17/questions/tree/master/0115-distinct-subsequences) |
 | [0273-integer-to-english-words](https://github.com/UtkarshGupta17/questions/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/UtkarshGupta17/questions/tree/master/0415-add-strings) |
