@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/UtkarshGupta17/questions/tree/master/0518-coin-change-ii) |
 | [0682-baseball-game](https://github.com/UtkarshGupta17/questions/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/UtkarshGupta17/questions/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0921-spiral-matrix-iii](https://github.com/UtkarshGupta17/questions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/UtkarshGupta17/questions/tree/master/0948-sort-an-array) |
 | [0965-unique-email-addresses](https://github.com/UtkarshGupta17/questions/tree/master/0965-unique-email-addresses) |
 | [0967-minimum-falling-path-sum](https://github.com/UtkarshGupta17/questions/tree/master/0967-minimum-falling-path-sum) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/UtkarshGupta17/questions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/UtkarshGupta17/questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/UtkarshGupta17/questions/tree/master/0064-minimum-path-sum) |
+| [0921-spiral-matrix-iii](https://github.com/UtkarshGupta17/questions/tree/master/0921-spiral-matrix-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/UtkarshGupta17/questions/tree/master/0967-minimum-falling-path-sum) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/UtkarshGupta17/questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/UtkarshGupta17/questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/UtkarshGupta17/questions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/UtkarshGupta17/questions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/UtkarshGupta17/questions/tree/master/0874-backspace-string-compare) |
+| [0921-spiral-matrix-iii](https://github.com/UtkarshGupta17/questions/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/UtkarshGupta17/questions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/UtkarshGupta17/questions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/UtkarshGupta17/questions/tree/master/1951-find-the-winner-of-the-circular-game) |
