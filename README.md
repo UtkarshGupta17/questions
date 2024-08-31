@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/UtkarshGupta17/questions/tree/master/1325-path-with-maximum-probability) |
 | [2379-maximum-total-importance-of-roads](https://github.com/UtkarshGupta17/questions/tree/master/2379-maximum-total-importance-of-roads) |
 ## Sorting
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/UtkarshGupta17/questions/tree/master/0948-sort-an-array) |
+| [1325-path-with-maximum-probability](https://github.com/UtkarshGupta17/questions/tree/master/1325-path-with-maximum-probability) |
 | [2379-maximum-total-importance-of-roads](https://github.com/UtkarshGupta17/questions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2725-mice-and-cheese](https://github.com/UtkarshGupta17/questions/tree/master/2725-mice-and-cheese) |
 ## Math
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-prison-cells-after-n-days](https://github.com/UtkarshGupta17/questions/tree/master/0994-prison-cells-after-n-days) |
 | [1207-delete-nodes-and-return-forest](https://github.com/UtkarshGupta17/questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/UtkarshGupta17/questions/tree/master/1293-three-consecutive-odds) |
+| [1325-path-with-maximum-probability](https://github.com/UtkarshGupta17/questions/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/UtkarshGupta17/questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/UtkarshGupta17/questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/UtkarshGupta17/questions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -304,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/UtkarshGupta17/questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/UtkarshGupta17/questions/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
