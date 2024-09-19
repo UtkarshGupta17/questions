@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/UtkarshGupta17/questions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/UtkarshGupta17/questions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/UtkarshGupta17/questions/tree/master/0062-unique-paths) |
+| [0241-different-ways-to-add-parentheses](https://github.com/UtkarshGupta17/questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/UtkarshGupta17/questions/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/UtkarshGupta17/questions/tree/master/0415-add-strings) |
 | [0994-prison-cells-after-n-days](https://github.com/UtkarshGupta17/questions/tree/master/0994-prison-cells-after-n-days) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UtkarshGupta17/questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/UtkarshGupta17/questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/UtkarshGupta17/questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/UtkarshGupta17/questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/UtkarshGupta17/questions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/UtkarshGupta17/questions/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/UtkarshGupta17/questions/tree/master/0967-minimum-falling-path-sum) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/UtkarshGupta17/questions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/UtkarshGupta17/questions/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/UtkarshGupta17/questions/tree/master/0115-distinct-subsequences) |
+| [0241-different-ways-to-add-parentheses](https://github.com/UtkarshGupta17/questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/UtkarshGupta17/questions/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/UtkarshGupta17/questions/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/UtkarshGupta17/questions/tree/master/0459-repeated-substring-pattern) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/UtkarshGupta17/questions/tree/master/0044-wildcard-matching) |
+| [0241-different-ways-to-add-parentheses](https://github.com/UtkarshGupta17/questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/UtkarshGupta17/questions/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/UtkarshGupta17/questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Linked List
@@ -315,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/UtkarshGupta17/questions/tree/master/1325-path-with-maximum-probability) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/UtkarshGupta17/questions/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
