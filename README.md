@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/UtkarshGupta17/questions/tree/master/0518-coin-change-ii) |
 | [0682-baseball-game](https://github.com/UtkarshGupta17/questions/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/UtkarshGupta17/questions/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0731-my-calendar-ii](https://github.com/UtkarshGupta17/questions/tree/master/0731-my-calendar-ii) |
 | [0906-walking-robot-simulation](https://github.com/UtkarshGupta17/questions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/UtkarshGupta17/questions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/UtkarshGupta17/questions/tree/master/0948-sort-an-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/UtkarshGupta17/questions/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UtkarshGupta17/questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0731-my-calendar-ii](https://github.com/UtkarshGupta17/questions/tree/master/0731-my-calendar-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/UtkarshGupta17/questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## String
 |  |
@@ -332,4 +334,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/UtkarshGupta17/questions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/UtkarshGupta17/questions/tree/master/2755-extra-characters-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/UtkarshGupta17/questions/tree/master/0731-my-calendar-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/UtkarshGupta17/questions/tree/master/0731-my-calendar-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/UtkarshGupta17/questions/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/UtkarshGupta17/questions/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
